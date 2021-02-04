@@ -12,10 +12,21 @@ https://cssicon.space/#/animate/close/to/menu
 ### unsorted
 https://web.dev/one-line-layouts/
 https://www.smashingmagazine.com/2014/06/sassy-z-index-management-for-complex-layouts/
+https://www.a11ywithlindsey.com/blog/creating-accessible-range-slider-css
 https://codepen.io/SitePoint/embed/ONVOKM?height=293&theme-id=6441&slug-hash=ONVOKM&default-tab=result&user=SitePoint&name=cp_embed_3#result-box
 https://web.dev/prefers-color-scheme/
 https://davidwalsh.name/css-content-attr
+https://codepen.io/ATC-test/pen/myPNqW
+https://codepen.io/simeydotme/pen/mJLPPq
 https://css-tricks.com/dark-modes-with-css/
+https://css-tricks.com/almanac/properties/p/pointer-events/
+https://css-tricks.com/styling-cross-browser-compatible-range-inputs-css/
+
+### gradient abuse
+https://blog.logrocket.com/complex-patterns-using-css-gradients/
+https://projects.verou.me/css3patterns/#marrakesh
+https://codepen.io/machal/pen/licEd
+https://codepen.io/kokanek/pen/NWGJENL
 
 ### mdn/w3
 https://developer.mozilla.org/en-US/docs/Web/CSS/minmax()
