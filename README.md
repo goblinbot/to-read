@@ -5,11 +5,13 @@ AKA a backup of the tabs about coding&amp;styling that I have had open for month
 ## DESIGN/UI GENERAL
 https://css-tricks.com/what-are-design-tokens/
 https://cssicon.space/#/animate/close/to/menu
-
+https://stylestage.dev/styles/manual/
+https://medium.mybridge.co/26-impressive-web-projects-built-with-css-only-4a4c2f773a21
 
 ## (S)CSS RABBITHOLE
 
 ### unsorted
+https://blog.logrocket.com/the-future-of-css-features-in-2020/
 https://web.dev/one-line-layouts/
 https://www.smashingmagazine.com/2014/06/sassy-z-index-management-for-complex-layouts/
 https://www.a11ywithlindsey.com/blog/creating-accessible-range-slider-css
